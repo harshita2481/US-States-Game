@@ -1,4 +1,4 @@
-# 🇺🇸 US States Game (Python)
+# US States Game (Python)
 
 A fun geography quiz game built with **Python Turtle graphics** and **Pandas**.  
 The game challenges you to guess all 50 US states. When you guess correctly, the state’s name appears on the map at its location!
